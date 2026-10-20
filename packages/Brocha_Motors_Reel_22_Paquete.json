@@ -1,0 +1,30 @@
+{
+  "n": 22,
+  "slug": "Alternador_Fallando",
+  "hook": [
+    "TU BATERÍA PUEDE ESTAR BIEN",
+    "Y FALLAR EL ALTERNADOR"
+  ],
+  "label": "SISTEMA DE CARGA",
+  "steps": [
+    [
+      "01",
+      "LUCES INESTABLES",
+      "Faros que bajan de intensidad pueden\nindicar una carga irregular."
+    ],
+    [
+      "02",
+      "TESTIGO DE BATERÍA",
+      "Si aparece en marcha, no significa\nsiempre que la batería sea la causa."
+    ],
+    [
+      "03",
+      "FALLOS ELÉCTRICOS",
+      "Ventanas lentas o avisos extraños\nmerecen revisar el sistema de carga."
+    ]
+  ],
+  "cta": "SÍGUENOS PARA EVITAR AVERÍAS",
+  "caption": "🔋 Una batería descargada no siempre significa que la batería esté mal. Luces inestables, el testigo de batería en marcha y varios fallos eléctricos pueden señalar un problema en el sistema de carga. Hazlo revisar antes de quedarte tirado.\n\nSigue a @brochamotors para evitar averías.\n\n#BrochaMotors #Alternador #BateriaCoche #AveriasCoche #MecanicaSinCuentos",
+  "pinned_comment": "¿Alguna vez cambiaste la batería y el problema continuó? 👇",
+  "story": "¿Batería nueva y el coche sigue fallando? 🔋 El alternador puede ser el culpable. Nuevo Reel en @brochamotors"
+}

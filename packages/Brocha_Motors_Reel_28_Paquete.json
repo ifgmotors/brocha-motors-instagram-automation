@@ -1,0 +1,30 @@
+{
+  "n": 28,
+  "slug": "Fuga_Refrigerante",
+  "hook": [
+    "¿PIERDE REFRIGERANTE?",
+    "MIRA ESTAS 3 SEÑALES"
+  ],
+  "label": "SISTEMA DE REFRIGERACIÓN",
+  "steps": [
+    [
+      "01",
+      "MANCHA BAJO EL COCHE",
+      "Un líquido de color puede indicar\nuna fuga en el circuito."
+    ],
+    [
+      "02",
+      "OLOR DULZÓN",
+      "El refrigerante suele dejar un olor\ncaracterístico al calentarse."
+    ],
+    [
+      "03",
+      "NIVEL QUE BAJA",
+      "Si desciende repetidamente, no rellenes\nsin buscar la causa."
+    ]
+  ],
+  "cta": "SÍGUENOS PARA EVITAR AVERÍAS",
+  "caption": "🌡️ Una mancha de color, olor dulzón o un nivel de refrigerante que baja repetidamente pueden indicar una fuga. No abras el circuito en caliente y haz revisar la causa.\n\nSigue a @brochamotors para evitar averías.\n\n#BrochaMotors #Refrigerante #Motor #MantenimientoCoche #MecanicaSinCuentos",
+  "pinned_comment": "¿Alguna vez encontraste una mancha debajo del coche? ¿De qué color era? 👇",
+  "story": "Una pequeña mancha puede acabar en sobrecalentamiento 🌡️ Nuevo Reel en @brochamotors"
+}

@@ -1,0 +1,30 @@
+{
+  "n": 32,
+  "slug": "Motor_Arranque",
+  "hook": [
+    "ESE CLIC PUEDE",
+    "DEJARTE TIRADO"
+  ],
+  "label": "MOTOR DE ARRANQUE",
+  "steps": [
+    [
+      "01",
+      "SUENA UN CLIC",
+      "Hay corriente, pero el motor\nno llega a girar."
+    ],
+    [
+      "02",
+      "FALLA A VECES",
+      "Arranca tras varios intentos o\nsolo en determinadas ocasiones."
+    ],
+    [
+      "03",
+      "LUCES CON FUERZA",
+      "Si no bajan mucho al intentarlo,\nla batería podría no ser la causa."
+    ]
+  ],
+  "cta": "SÍGUENOS PARA EVITAR AVERÍAS",
+  "caption": "🔑 Si al girar la llave escuchas un clic, el coche arranca solo tras varios intentos y las luces mantienen intensidad, el motor de arranque podría estar avisando. Comprueba también batería, bornes y conexiones antes de sustituir piezas.\n\nSigue a @brochamotors para evitar averías.\n\n#BrochaMotors #MotorDeArranque #BateriaCoche #AveriasCoche #MecanicaSinCuentos",
+  "pinned_comment": "¿Tu coche ha hecho alguna vez clic sin llegar a arrancar? 👇",
+  "story": "Giras la llave, escuchas un clic… y nada 🔑 Mira las 3 pistas en el nuevo Reel de @brochamotors"
+}

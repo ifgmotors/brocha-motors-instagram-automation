@@ -1,0 +1,30 @@
+{
+  "n": 23,
+  "slug": "Color_Humo_Escape",
+  "hook": [
+    "EL COLOR DEL HUMO",
+    "TE ESTÁ AVISANDO"
+  ],
+  "label": "SEÑALES DEL ESCAPE",
+  "steps": [
+    [
+      "01",
+      "HUMO AZUL",
+      "Puede indicar que el motor está\nquemando aceite."
+    ],
+    [
+      "02",
+      "HUMO BLANCO DENSO",
+      "Si persiste con el motor caliente,\nconviene revisar el refrigerante."
+    ],
+    [
+      "03",
+      "HUMO NEGRO",
+      "Suele relacionarse con una mezcla\ndemasiado rica en combustible."
+    ]
+  ],
+  "cta": "SÍGUENOS PARA LEER LAS SEÑALES",
+  "caption": "💨 El humo del escape puede dar pistas: azul, consumo de aceite; blanco denso y persistente, posible refrigerante; negro, exceso de combustible. No diagnostica por sí solo, pero sí merece una revisión.\n\nSigue a @brochamotors para entender las señales de tu coche.\n\n#BrochaMotors #HumoEscape #Motor #AveriasCoche #MecanicaSinCuentos",
+  "pinned_comment": "¿Qué color de humo has visto alguna vez en un coche? 👇",
+  "story": "Azul, blanco o negro: el humo cambia el aviso 💨 Descúbrelo en el nuevo Reel de @brochamotors"
+}

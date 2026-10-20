@@ -1,0 +1,30 @@
+{
+  "n": 27,
+  "slug": "Trayectos_Cortos_Bateria",
+  "hook": [
+    "LOS TRAYECTOS CORTOS",
+    "CASTIGAN TU BATERÍA"
+  ],
+  "label": "CUIDADO DE LA BATERÍA",
+  "steps": [
+    [
+      "01",
+      "ARRANCAR CONSUME",
+      "El motor de arranque exige mucha\nenergía en pocos segundos."
+    ],
+    [
+      "02",
+      "NO DA TIEMPO A CARGAR",
+      "Un recorrido breve puede no recuperar\nla energía usada al arrancar."
+    ],
+    [
+      "03",
+      "VIGILA LAS SEÑALES",
+      "Arranque lento y luces débiles avisan\nantes de que te deje tirado."
+    ]
+  ],
+  "cta": "SÍGUENOS PARA EVITAR AVERÍAS",
+  "caption": "🔋 Muchos trayectos muy cortos pueden descargar progresivamente la batería: arrancar consume bastante energía y quizá el alternador no tenga tiempo de recuperarla. Vigila el arranque lento y las luces débiles.\n\nSigue a @brochamotors para evitar quedarte tirado.\n\n#BrochaMotors #BateriaCoche #TrayectosCortos #MantenimientoCoche #MecanicaSinCuentos",
+  "pinned_comment": "¿Tu coche hace casi siempre recorridos cortos? 👇",
+  "story": "¿Solo haces trayectos cortos? Tu batería lo nota 🔋 Nuevo Reel en @brochamotors"
+}

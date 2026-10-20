@@ -1,0 +1,30 @@
+{
+  "n": 25,
+  "slug": "Testigo_Presion_Aceite",
+  "hook": [
+    "TESTIGO ROJO DE ACEITE",
+    "APAGA EL MOTOR"
+  ],
+  "label": "PRESIÓN DE ACEITE",
+  "steps": [
+    [
+      "01",
+      "DETENTE SEGURO",
+      "Busca un lugar seguro y apaga\nel motor cuanto antes."
+    ],
+    [
+      "02",
+      "NO SIGAS PROBANDO",
+      "Circular sin presión puede causar\ndaños graves en muy poco tiempo."
+    ],
+    [
+      "03",
+      "REVISA Y PIDE AYUDA",
+      "Comprueba el nivel solo en condiciones\nseguras y solicita asistencia."
+    ]
+  ],
+  "cta": "SÍGUENOS PARA EVITAR DAÑOS",
+  "caption": "🔴 El testigo rojo de presión de aceite no es un recordatorio de mantenimiento. Si aparece en marcha, detente con seguridad y apaga el motor. Seguir circulando puede causar daños graves.\n\nSigue a @brochamotors para reaccionar a tiempo.\n\n#BrochaMotors #AceiteMotor #TestigosCoche #AveriasCoche #MecanicaSinCuentos",
+  "pinned_comment": "¿Conocías la diferencia entre el testigo rojo de aceite y el aviso de mantenimiento? 👇",
+  "story": "Este testigo rojo no se puede ignorar 🔴 Nuevo Reel en @brochamotors"
+}

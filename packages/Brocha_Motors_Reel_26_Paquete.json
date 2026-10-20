@@ -1,0 +1,30 @@
+{
+  "n": 26,
+  "slug": "Comprar_Coche_Usado",
+  "hook": [
+    "¿COCHE USADO?",
+    "REVISA ESTO ANTES"
+  ],
+  "label": "COMPRA INTELIGENTE",
+  "steps": [
+    [
+      "01",
+      "ARRANQUE EN FRÍO",
+      "Pide verlo sin calentar: ruidos y humo\nse detectan mejor al arrancar."
+    ],
+    [
+      "02",
+      "DESGASTE COHERENTE",
+      "Volante, pedales y asiento deben\nencajar con los kilómetros."
+    ],
+    [
+      "03",
+      "HISTORIAL Y REVISIÓN",
+      "Comprueba mantenimiento y realiza\nuna inspección independiente."
+    ]
+  ],
+  "cta": "SÍGUENOS PARA COMPRAR MEJOR",
+  "caption": "🔍 Antes de comprar un coche usado, intenta verlo arrancar en frío, compara el desgaste interior con los kilómetros y revisa su historial. Una inspección independiente puede ahorrarte una avería muy cara.\n\nSigue a @brochamotors para comprar con más criterio.\n\n#BrochaMotors #CocheUsado #ComprarCoche #ConsejosCoche #MecanicaSinCuentos",
+  "pinned_comment": "¿Qué comprobarías primero al comprar un coche usado? 👇",
+  "story": "Un coche usado puede esconder una factura enorme 🔍 Mira estas 3 comprobaciones en @brochamotors"
+}

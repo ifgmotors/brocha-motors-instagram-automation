@@ -1,0 +1,30 @@
+{
+  "n": 30,
+  "slug": "Golpe_Bache",
+  "hook": [
+    "HAS CAÍDO EN UN BACHE",
+    "REVISA ESTO"
+  ],
+  "label": "RUEDAS Y SUSPENSIÓN",
+  "steps": [
+    [
+      "01",
+      "MIRA EL NEUMÁTICO",
+      "Busca cortes, bultos o pérdida de\npresión después del golpe."
+    ],
+    [
+      "02",
+      "SUELTA EL VOLANTE",
+      "Si el coche se desvía, puede haberse\nalterado la alineación."
+    ],
+    [
+      "03",
+      "ESCUCHA RUIDOS",
+      "Golpes o vibraciones nuevas merecen\nuna revisión de rueda y suspensión."
+    ]
+  ],
+  "cta": "SÍGUENOS PARA EVITAR AVERÍAS",
+  "caption": "🕳️ Después de un golpe fuerte con un bache, revisa el neumático, comprueba si el coche se desvía y presta atención a ruidos o vibraciones nuevas. Un daño pequeño puede empeorar rápidamente.\n\nSigue a @brochamotors para evitar averías.\n\n#BrochaMotors #Baches #Neumaticos #Suspension #MecanicaSinCuentos",
+  "pinned_comment": "¿Cuál ha sido el peor bache que te has encontrado? 👇",
+  "story": "¿Golpe fuerte con un bache? 🕳️ Haz estas 3 comprobaciones. Nuevo Reel en @brochamotors"
+}

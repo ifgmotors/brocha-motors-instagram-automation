@@ -1,0 +1,30 @@
+{
+  "n": 19,
+  "slug": "Senales_Frenos",
+  "hook": [
+    "SI TUS FRENOS",
+    "HACEN ESTO, CUIDADO"
+  ],
+  "label": "SISTEMA DE FRENOS",
+  "steps": [
+    [
+      "01",
+      "RUIDO AL FRENAR",
+      "Chirridos o rozamientos pueden\nindicar desgaste o suciedad."
+    ],
+    [
+      "02",
+      "VIBRA EL PEDAL",
+      "Una vibración repetida merece\nuna revisión profesional."
+    ],
+    [
+      "03",
+      "FRENA PEOR",
+      "Si aumenta la distancia o el pedal\ncambia, no retrases la revisión."
+    ]
+  ],
+  "cta": "SÍGUENOS PARA EVITAR AVERÍAS",
+  "caption": "🛑 Tres señales para revisar los frenos: ruidos al frenar, vibraciones en el pedal o una distancia de frenado mayor. Si notas cambios, conduce con precaución y acude a un profesional.\n\nGuarda este Reel y sigue a @brochamotors.\n\n#BrochaMotors #Frenos #SeguridadVial #MantenimientoCoche #MecánicaSinCuentos",
+  "pinned_comment": "¿Has notado alguna vez ruido o vibración al frenar? 👇",
+  "story": "¿Tus frenos hacen ruido o vibra el pedal? 🛑 Nuevo Reel en @brochamotors"
+}

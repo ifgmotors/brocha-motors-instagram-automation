@@ -1,0 +1,30 @@
+{
+  "n": 21,
+  "slug": "Olor_Gasolina",
+  "hook": [
+    "¿HUELE A GASOLINA?",
+    "NO SIGAS CONDUCIENDO"
+  ],
+  "label": "EVITA UN RIESGO MAYOR",
+  "steps": [
+    [
+      "01",
+      "DETENTE CON SEGURIDAD",
+      "Apaga el motor y aléjate del tráfico\nen cuanto puedas hacerlo sin riesgo."
+    ],
+    [
+      "02",
+      "NO BUSQUES LA FUGA",
+      "No fumes, no uses llamas y evita\nmanipular el sistema de combustible."
+    ],
+    [
+      "03",
+      "PIDE ASISTENCIA",
+      "No vuelvas a arrancar si el olor es\nintenso o ves combustible en el suelo."
+    ]
+  ],
+  "cta": "SÍGUENOS PARA EVITAR AVERÍAS",
+  "caption": "⛽ Si notas un olor intenso a gasolina mientras conduces, detente en un lugar seguro, apaga el motor y evita cualquier llama o chispa. Si ves combustible o el olor persiste, no vuelvas a arrancar: solicita asistencia profesional.\n\nSigue a @brochamotors para aprender a reaccionar antes de que una avería se convierta en un problema mayor.\n\n#BrochaMotors #AveriasCoche #SeguridadVial #MantenimientoCoche #MecanicaSinCuentos",
+  "pinned_comment": "¿Alguna vez has notado un olor extraño en el coche? Cuéntanos cuál. 👇",
+  "story": "¿Tu coche huele a gasolina? ⛽ Estas 3 decisiones pueden evitar un riesgo mayor. Nuevo Reel en @brochamotors"
+}
